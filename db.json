@@ -1,18 +1,18 @@
 {
   "tokens": [
-    {
-      "id": 0,
-      "description": "Xom NFT first order #1",
-      "external_url": "get.xometry.com",
-      "image": "https://i.imgur.com/bExpTAf.jpg",
-      "name": "Xom NFT 0"
-    },
-    {
-      "id": 1,
-      "description": "Xom NFT first order #2",
-      "external_url": "get.xometry.com",
-      "image": "https://i.imgur.com/bExpTAf.jpg",
-      "name": "Xom NFT 1"
-    }
+      {
+          "id": 0,
+          "description": "Xom NFT first order #1",
+          "external_url": "get.xometry.com",
+          "image": "https://i.imgur.com/bExpTAf.jpg",
+          "name": "Xom NFT 1"
+      },
+      {
+          "id": 1,
+          "description": "Xom NFT First order #2",
+          "external_url": "get.xometry.com",
+          "image": "https://i.imgur.com/bExpTAf.jpg",
+          "name": "Xom NFT 2"
+      }
   ]
 }
